@@ -1,6 +1,13 @@
 # README #
 
 Code for generating and running assembly of rigid hexagons and pentagons. CG simulations are for HOOMD 2.3.0 but should work foe HOOMD 2.x.x. 
+
+
+Kinetic growth of multicomponent microcompartment shells
+C Waltmann, NW Kennedy, CE Mills, EW Roth, SP Ikonomova, ...
+ACS nano 17 (16), 15751-15762 2	2023
+
+
 ### What is this repository for? ###
 
 * Quick summary
